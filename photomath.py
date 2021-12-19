@@ -159,7 +159,6 @@ def evaluate_expr(ch_string):
 
 
 # PART FOUR - A PHOTOMATH FUNCTION (ONE TO RULE THEM ALL)
-
 def photomath(image):
   images, im_coord = character_detector(image)
   for i in range(0, len(images)):
