@@ -162,11 +162,10 @@ def evaluate_expr(ch_string):
 
 def photomath(image):
   images, im_coord = character_detector(image)
-  sorted_images, sorted_coord = sort_characters(images, im_coord)
-  for i in range(0, len(sorted_images)):
+  for i in range(0, len(images)):
     if i == 0:
       ch_string = ""
-    character = classification_function(sorted_images[i,:,:])
+    character = classification_function(images[i,:,:])
     ch_string = ch_string + character
   solution = evaluate_expr(ch_string)
   return solution
