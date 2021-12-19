@@ -6,7 +6,7 @@ Expression can contain following mathematical characters: `0`, `1`, `2`, `3`, `4
 
 ### There are four parts of this code:
 
-1.  **A handwritten character detector function** - receives an image of expression and returns cropped images of characters
+1.  **A Handwritten Character Detector Function** - receives an image of expression and returns cropped images of characters
 
 2.  **A Classification Function** - recieves cropped image of a character and returns a character. We will use a CNN for classification that was made and trained in a `NN_model.ipynb` file.
 
