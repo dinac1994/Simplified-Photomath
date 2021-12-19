@@ -56,6 +56,9 @@ The final step is to use ***Evaluation Function*** that takes the expression str
 
 ## Examples from UI of a simple Flask app:
 <img width="1226" alt="Slika_11" src="https://user-images.githubusercontent.com/92053362/146677678-8ca81690-81fe-4f9a-b9c4-11edd73036f0.png">
+
+<img width="1213" alt="slika_33" src="https://user-images.githubusercontent.com/92053362/146678668-abd0c979-2fb1-4fa3-8089-3c5271a1c4be.png">
+
 <img width="1254" alt="Slika_9" src="https://user-images.githubusercontent.com/92053362/146677475-c7567126-954f-4585-b154-bc4496c1b42c.png">
 <img width="1211" alt="Slika_10" src="https://user-images.githubusercontent.com/92053362/146677481-8fbe3863-9949-4261-ad86-d286fdabe382.png">
 
